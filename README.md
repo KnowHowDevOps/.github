@@ -42,5 +42,5 @@ Please be respectful and constructive—healthy collaboration is at the heart of
 - Security: Report sensitive issues through a responsible channel (see repo SECURITY.md if available)
 
 ---
-Empowering teams to build, ship, and run software with confidence.
 
+Empowering teams to build, ship, and run software with confidence.

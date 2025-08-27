@@ -3,6 +3,7 @@
 A curated collection of practical assets to automate delivery and operations. Use it to bootstrap projects, standardize workflows, and reduce toil across environments.
 
 What’s inside
+
 - Automation: Infrastructure provisioning, configuration management, and repeatable operational tasks
 - CI/CD: Pipeline templates, reusable jobs, and patterns for build, test, and release
 - Cloud & Kubernetes: Deployment manifests, modules, and helper utilities
