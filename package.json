@@ -21,7 +21,7 @@
     "glob": "^14.0.3",
     "husky": "9.1.7",
     "lint-staged": "^17.0.2",
-    "oxfmt": "^0.76.0",
+    "oxfmt": "^0.77.0",
     "oxlint": "^1.63.0",
     "oxlint-tsgolint": "^7.0.2001",
     "release-it": "^21.0.0",
